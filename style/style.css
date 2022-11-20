@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: green;
+}
+.vubach {
+  text-align: center;
+  color: black;
+  text-shadow: 2px;
+}
+.pozdr {
+  text-align: center;
+  color: green;
+  text-shadow: 2px;
+}
+.video {
+  align-items: center;
+}
